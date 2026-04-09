@@ -1,0 +1,22 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Full Page Background */
+body {
+  font-family: Arial, sans-serif;
+
+  /* 🎯 CHANGE THIS LINE FOR BACKGROUND */
+  background: #f8fafc;   /* Light background */
+
+  color: #faf7f7;
+  min-height: 100vh;
+}
+
+/* Root container */
+#root {
+  min-height: 100vh;
+}
